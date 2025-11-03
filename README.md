@@ -13,6 +13,3 @@
 
 - [HTB Pro Hacker](https://labs.hackthebox.com/achievement/badge/255812/216)
 
-## Notes
-
-I limit posting of PII, so certain things may be inaccurate if searched online
